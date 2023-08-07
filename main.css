@@ -1,0 +1,13 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0c0c0c;
+}
+
+.sidebar {
+    background-color: #333;
+    color: white;
+}
+
+/* Add more styles as needed */
